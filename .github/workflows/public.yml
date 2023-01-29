@@ -2,7 +2,7 @@
 
 on:
   schedule:
-    - cron: '0 16 * 1 0' # http://crontab.guru
+    - cron: '0 16 29 1 0' # http://crontab.guru
 jobs:
   make-private:
     runs-on: ubuntu-latest
