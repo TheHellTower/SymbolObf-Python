@@ -8,7 +8,7 @@ using namespace std;
 
 Utils utils = Utils();
 
-string templateOutput = R"(#Obfuscated with: https://github.com/TheObfuscators/SymbolObf By TheHellTower
+string templateOutput = R"(#Obfuscated with: https://github.com/TheObfuscators/SymbolObf-Python By TheHellTower
 
 THT_6669=[{TheHellTower}];THT_1=__import__;THT_2=dir;THT_3=THT_1(("s"+"n"+"i"+"t"+"l"+"i"+"u"+"b")[::+-+-(-(+1))]);THT_4=getattr;THT_5=[("s"+"n"+"i"+"t"+"l"+"i"+"u"+"b"),("c"+"e"+"x"+"e")];THT_4(THT_3, THT_2(THT_3)[THT_2(THT_1(THT_5[0][::+-+-(-(+1))])).index(THT_5[1][::+-+-(-(+1))])])("".join([chr(len(i)) for i in THT_6669])))";
 string toAdd;
