@@ -1,5 +1,7 @@
 # SymbolObf
 
+[![CodeFactor](https://www.codefactor.io/repository/github/thehelltower/symbolobf-python/badge)](https://www.codefactor.io/repository/github/thehelltower/symbolobf-python)
+
 ## 📜 What it does ?
 
 It's simply "obfuscate" a Python script.
