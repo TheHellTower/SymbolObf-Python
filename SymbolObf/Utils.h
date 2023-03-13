@@ -9,7 +9,6 @@ public:
     }
 
     inline void replace_all(std::string& data, std::string to_search, std::string replace_str) {
-
         size_t pos = data.find(to_search);
 
         while (pos != std::string::npos) {
